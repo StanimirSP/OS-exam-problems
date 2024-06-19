@@ -1,0 +1,7 @@
+FOO=73
+BAR=42
+BAZ=
+ENABLED_OPTIONS=a b c d e
+ENABLED_OPTIONS_EXTRA=f g g f 
+XX=.. () *
+YY=b * c ( )
